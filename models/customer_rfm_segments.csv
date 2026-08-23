@@ -1,0 +1,51 @@
+customer,recency,frequency,monetary,R_score,F_score,M_score,RFM_score,segment,recommended_action
+Thohoyandou Cash Account,1,1602,24832423.95,5,5,5,555,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+Cloetes Cold Meats CC,2,109,11916931.79,5,5,5,555,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+Thohoyandou Cash Account - Bulk Sales,2,115,1121699.59,5,5,5,555,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+Game Changers Stationery (Striclty Cash ) (CASH),162,77,1104532.14,3,5,5,355,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Target Meats Transfers Customer,33,28,432652.47,4,5,5,455,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+Ndou TK Enterprise (Pty) Ltd(CASH),24,69,234112.68,4,5,5,455,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+Cloete Cold Meat (COD),409,1,190455.48,2,1,5,215,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+kota Queens SA(CASH),5,50,123798.96,5,5,5,555,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+15 SAI BV Commercialisation(CASH),563,6,116958.68,1,3,5,135,At Risk,"Win back — personalized outreach before they're lost, understand what changed."
+LEITAO AND SON T/A PALAMINE,25,1,85792.35,4,1,5,415,New Customers,Onboard well — build the relationship early with good service and follow-up.
+Van Shilenge (Pty) Ltd (CASH),2,35,79952.44,5,5,4,554,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+Masingita Development Filling Station(CASH),50,19,65409.71,4,4,4,444,Champions,"Reward and retain — priority service, early access to new products, ask for referrals."
+Len Cloete - Walt Landgoed,288,1,57285.64,2,1,4,214,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+Bagwera Businesss Consultancy & Enterprise(CASH),666,1,55897.2,1,1,4,114,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+Polokwane Cash Account - Butchery,439,2,49594.770000000004,1,2,4,124,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+Kevlon(CASH),108,9,31925.28,3,4,4,344,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Supreme Processing - Thohoyandou,320,19,19731.5,2,5,4,254,Can't Lose Them,"Urgent re-engagement — high value but going quiet, priority account-management attention."
+Supreme Processing - Honeydew,438,16,18980.5,2,4,4,244,Can't Lose Them,"Urgent re-engagement — high value but going quiet, priority account-management attention."
+Polokwane Cash Account - Bulk Sales,461,2,18595.0,1,2,4,124,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+Target Meats Stock Transfers,369,1,18528.87,2,2,4,224,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+Munene (CASH),5,4,14270.17,5,3,3,533,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+THO004 - Thohoyandou Cash Account - Bulk Sales,647,7,12964.39,1,4,3,143,At Risk,"Win back — personalized outreach before they're lost, understand what changed."
+Lira Boutique Lodge (PTY) LTD(CASH),162,6,10250.24,3,3,3,333,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Thohoyandou Pensioner Discount Account,136,17,8701.34,3,4,3,343,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Nephawe Essential Oil(CASH),253,38,7747.46,3,5,3,353,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Maobies (CASH),9,4,6262.11,5,3,3,533,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+DTTT Group (Pty) Ltd(CASH),74,19,6151.46,4,4,3,443,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Ati Mbiteni Restaurant(CASH),22,7,5798.14,4,4,3,443,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Luaname Trading Enterprise (CASH),8,6,5479.33,5,4,3,543,Loyal Customers,"Upsell/cross-sell — engage regularly, they respond well to loyalty perks."
+Justine K(CASH),106,2,4586.63,3,2,3,323,Potential Loyalists,Nurture — offer incentives to increase purchase frequency.
+Phahlelucy Multipurpose Centre (CASH),18,2,4424.01,4,2,2,422,New Customers,Onboard well — build the relationship early with good service and follow-up.
+Gladson Sibongiseni Nxumalo(CASH),452,2,3835.0800000000004,1,2,2,122,Hibernating,"Low-cost reactivation — win-back campaigns, but not high-touch given low historical value."
+Royal Lodge (CASH),34,7,3594.15,4,4,2,442,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+Sarafinah Kota Place(CASH),395,2,3422.99,2,2,2,222,Hibernating,"Low-cost reactivation — win-back campaigns, but not high-touch given low historical value."
+Walt Landgoed (Edms) BPK,333,1,3012.91,2,2,2,222,Hibernating,"Low-cost reactivation — win-back campaigns, but not high-touch given low historical value."
+Umhlanga Cash Account - Bulk Sales,569,3,2968.4299999999994,1,3,2,132,At Risk,"Win back — personalized outreach before they're lost, understand what changed."
+Tshivhase Nature Reserve (CASH),121,2,2700.99,3,3,2,332,Potential Loyalists,Nurture — offer incentives to increase purchase frequency.
+Rensia Palace and Spa(CASH),8,6,2497.55,5,4,2,542,Lost Customers,"Deprioritize — unlikely to be worth heavy re-acquisition spend, unless strategically important."
+Lucas van Vuuren(CASH),92,1,2458.29,4,1,2,412,New Customers,Onboard well — build the relationship early with good service and follow-up.
+Thohoyandou Staff Cash Account,401,5,1978.33,2,3,2,232,At Risk,"Win back — personalized outreach before they're lost, understand what changed."
+Cavalieri Cheese ( Pty) Ltd(CASH),106,1,1782.4899999999998,3,1,1,311,Potential Loyalists,Nurture — offer incentives to increase purchase frequency.
+Phudali and Ovi GTT(CASH),2,1,1658.1399999999999,5,1,1,511,New Customers,Onboard well — build the relationship early with good service and follow-up.
+THO002 - Thohoyandou Staff Account,645,2,1312.27,1,3,1,131,At Risk,"Win back — personalized outreach before they're lost, understand what changed."
+VTJ Hire and Entertainment (PtY) lTD(CASH),142,1,1100.83,3,2,1,321,Potential Loyalists,Nurture — offer incentives to increase purchase frequency.
+Alumbi Events(CASH),88,1,598.09,4,1,1,411,New Customers,Onboard well — build the relationship early with good service and follow-up.
+Chicking Mutsindo (Pty) Ltd(CASH),192,3,529.3199999999999,3,3,1,331,Potential Loyalists,Nurture — offer incentives to increase purchase frequency.
+Umhlanga Pensioner Discount Account,565,1,410.84000000000003,1,2,1,121,Hibernating,"Low-cost reactivation — win-back campaigns, but not high-touch given low historical value."
+Tsundzukani Athalia Mathonsi - 0211173,424,2,388.49,2,3,1,231,At Risk,"Win back — personalized outreach before they're lost, understand what changed."
+Satlafor T/A Kingfisher (CASH),262,1,131.65,2,1,1,211,Hibernating,"Low-cost reactivation — win-back campaigns, but not high-touch given low historical value."
+Humbulani Mulovhedzi - 0210094,637,1,104.34,1,1,1,111,Hibernating,"Low-cost reactivation — win-back campaigns, but not high-touch given low historical value."
