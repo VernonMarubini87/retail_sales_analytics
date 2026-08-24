@@ -138,4 +138,6 @@ jupyter notebook notebooks/
 
 ## Author
 
-Vernon Marubini — [LinkedIn](#) · [GitHub](#)
+Vernon Marubini
+[LinkedIn](https://www.linkedin.com/in/vernon-marubini-04321a20/) · 
+[GitHub](https://github.com/VernonMarubini87)
